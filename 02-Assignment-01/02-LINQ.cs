@@ -1,5 +1,5 @@
 using System;
-using 
+using System.Linq;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -39,16 +39,54 @@ namespace LINQdemo
             List<Student> stu_info = new List<Student>(){
                 new Student{Name = "Binayak", Marks = 45.23, Department = "Bsc.CSIT"},
                 new Student{Name = "Abiral", Marks = 50.45, Department = "BIM"},
-                new Student{Name = "Dipesh", Marks = 48.30, Department = "Bsc"}
+                new Student{Name = "Dipesh", Marks = 48.30, Department = "Bsc"},
+                new Student{Name = "Samir", Marks = 35.90, Department = "Bsc.CSIT"},
+                new Student{Name = "Deep", Marks = 39.5, Department = "BIM"}
             };
 
-            Console.WriteLine("All student information: ");
+            Console.WriteLine("\nAll student information: ");
+
             foreach (var a in stu_info)
             {
                 Console.WriteLine(a.Name + "\t" + a.Marks + "\t" + a.Department);
             }
 
+            //where filters the data
+            var filter = from s in stu_info where s.Marks >= 40 select s;
 
+            Console.WriteLine("\nStudents having marks >= 40: ");
+
+            foreach (var a in filter)
+            {
+                Console.WriteLine(a.Name + "\t" + a.Marks + "\t" + a.Department);
+            }
+
+            //OrderBy sorts the data
+
+            var sort = stu_info.OrderBy(s => s.Marks).ToList();
+
+            Console.WriteLine("\nStudent sorted in ascending order by marks: ");
+            foreach (var a in sort)
+            {
+                Console.WriteLine(a.Name + "\t" + a.Marks + "\t" + a.Department);
+            }
+
+            //GroupBy
+
+            var group = stu_info.GroupBy(s => s.Department);
+
+            Console.WriteLine("\nStudent grouped by Department: ");
+
+            foreach (var g in group)
+            {
+                Console.WriteLine("\nDepartment = {0}", g.Key);
+                Console.WriteLine("----------");
+                foreach (var a in g)
+                {
+                    Console.WriteLine(a.Name + "\t" + a.Marks + "\t" + a.Department);
+                }
+
+            }
         }
     }
 }
