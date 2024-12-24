@@ -45,3 +45,25 @@ namespace ListOfStudents{
         }
     }
 }
+
+// Output: 
+// All students in List: 
+// Binayak
+// Deep
+// Abiral
+// Samir
+// Dipesh
+
+// Updated List:
+// Binayak
+// Deep
+// Abiral
+// Dipesh
+
+// Students in alphabetical order:
+// Abiral
+// Binayak
+// Deep
+// Dipesh
+
+// Samir is not in the list

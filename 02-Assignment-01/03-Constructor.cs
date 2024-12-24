@@ -31,3 +31,9 @@ namespace ConstructorDemo{
         }
     }
 }
+
+// Output:
+// Default Constructor Initialized
+// Area of rectangle 1 is: 0
+// Parameterized Constructor Initialized
+// Area of rectangle 2 is: 18075.9388

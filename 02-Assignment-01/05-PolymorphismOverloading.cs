@@ -30,3 +30,8 @@ namespace Polymorphism
         }
     }
 }
+
+// Output:
+// 2+6=8
+// 7+8+3=18
+// 3.5+67.3=70.8

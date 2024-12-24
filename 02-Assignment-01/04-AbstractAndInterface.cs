@@ -39,3 +39,7 @@ namespace AbstractAndInterface{
         }
     }
 }
+
+// Output:
+// Volume of cylinder: 92.316
+// Volume of hemisphere: 203.756693333333

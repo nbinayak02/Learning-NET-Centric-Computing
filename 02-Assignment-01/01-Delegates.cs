@@ -34,3 +34,8 @@ namespace DelegatesDemo{
     }
 
 }
+
+// Output:
+// The area of circle having radius 4.5 is 63.585
+// The area of rectangle having length 2 and breadth 3 is 6
+// The area of triangle having base 5 and height 8 is 20

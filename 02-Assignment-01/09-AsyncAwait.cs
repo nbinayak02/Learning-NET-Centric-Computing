@@ -42,3 +42,9 @@ namespace UseOfAsyncAwait
         }
     }
 }
+
+// Output:
+// Name: Binayak Niraula
+// Address: Jhapa, Nepal
+// Followers: 7
+// Profile: https://github.com/nbinayak02

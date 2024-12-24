@@ -32,3 +32,6 @@ namespace Inheritance
         }
     }
 }
+
+// Output:
+// Name: Samsung Price: 235634.5

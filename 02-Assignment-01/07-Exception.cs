@@ -26,3 +26,7 @@ namespace ExceptionHandling
         }
     }
 }
+
+// Output:
+// Exception Occured: The index you are trying to access is out of range.
+// This is finally block

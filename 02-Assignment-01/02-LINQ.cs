@@ -90,3 +90,39 @@ namespace LINQdemo
         }
     }
 }
+
+// Output:
+// All student information:
+// Binayak 45.23   Bsc.CSIT
+// Abiral  50.45   BIM
+// Dipesh  48.3    Bsc
+// Samir   35.9    Bsc.CSIT
+// Deep    39.5    BIM
+
+// Students having marks >= 40:
+// Binayak 45.23   Bsc.CSIT
+// Abiral  50.45   BIM
+// Dipesh  48.3    Bsc
+
+// Student sorted in ascending order by marks:      
+// Samir   35.9    Bsc.CSIT
+// Deep    39.5    BIM
+// Binayak 45.23   Bsc.CSIT
+// Dipesh  48.3    Bsc
+// Abiral  50.45   BIM
+
+// Student grouped by Department:
+
+// Department = Bsc.CSIT
+// ----------
+// Binayak 45.23   Bsc.CSIT
+// Samir   35.9    Bsc.CSIT
+
+// Department = BIM
+// ----------
+// Abiral  50.45   BIM
+// Deep    39.5    BIM
+
+// Department = Bsc
+// ----------
+// Dipesh  48.3    Bsc
