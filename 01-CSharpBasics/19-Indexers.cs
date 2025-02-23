@@ -4,8 +4,8 @@ namespace Indexers
 
     public class NPL
     {
-        private string[] names = new string[8]; //property of array type
-
+        private string[] names = new string[8]; //field of array type
+                                                //this below is property
         public string this[int i] //only difference is this keyword and parameter list
         {
             get
@@ -35,7 +35,7 @@ namespace Indexers
 
             Console.WriteLine("The teams of Nepal Premier League are: ");
 
-            for(int i = 0; i<7; i++)
+            for (int i = 0; i < 7; i++)
             {
                 Console.WriteLine(teams[i]);
             }

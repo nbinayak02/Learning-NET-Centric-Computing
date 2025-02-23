@@ -1,0 +1,45 @@
+﻿@model IEnumerable<AdoCurd.Models.User>
+
+<button class="btn btn-primary">
+	<a asp-action="AddUser" class="text-white text-decoration-none">Add New User</a>
+</button>
+
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Age</th>
+			<th>Gender</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		@if (Model.Any())
+		{
+			foreach (var u in Model)
+			{
+				<tr>
+					<td>@u.Name</td>
+					<td>@u.Age</td>
+					<td>@u.Gender</td>
+					<td>
+						<button class="btn btn-success">
+							<a asp-action="Update" asp-route-id="@u.Id" class="text-white text-decoration-none">Update</a>
+						</button>
+
+						<button class="btn btn-danger">
+							<a asp-action="Delete" asp-route-id="@u.Id" class="text-white text-decoration-none">Delete</a>
+						</button>
+					</td>
+				</tr>
+			}
+		}
+		else
+		{
+			<tr>
+				<td colspan="4" class="text-center fw-bold">No content found</td>
+			</tr>
+		}
+	</tbody>
+</table>

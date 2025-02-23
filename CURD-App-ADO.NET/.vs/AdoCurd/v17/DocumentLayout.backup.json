@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\AdoCurd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B087DF6-B5A1-46CC-AE24-C3EF5F31E94D}|AdoCurd\\AdoCurd.csproj|e:\\github\\learning-net-centric-computing\\practice\\adocurd\\adocurd\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B087DF6-B5A1-46CC-AE24-C3EF5F31E94D}|AdoCurd\\AdoCurd.csproj|solutionrelative:adocurd\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B087DF6-B5A1-46CC-AE24-C3EF5F31E94D}|AdoCurd\\AdoCurd.csproj|e:\\github\\learning-net-centric-computing\\practice\\adocurd\\adocurd\\views\\users\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B087DF6-B5A1-46CC-AE24-C3EF5F31E94D}|AdoCurd\\AdoCurd.csproj|solutionrelative:adocurd\\views\\users\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B087DF6-B5A1-46CC-AE24-C3EF5F31E94D}|AdoCurd\\AdoCurd.csproj|e:\\github\\learning-net-centric-computing\\practice\\adocurd\\adocurd\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B087DF6-B5A1-46CC-AE24-C3EF5F31E94D}|AdoCurd\\AdoCurd.csproj|solutionrelative:adocurd\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B087DF6-B5A1-46CC-AE24-C3EF5F31E94D}|AdoCurd\\AdoCurd.csproj|e:\\github\\learning-net-centric-computing\\practice\\adocurd\\adocurd\\data\\userdboperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B087DF6-B5A1-46CC-AE24-C3EF5F31E94D}|AdoCurd\\AdoCurd.csproj|solutionrelative:adocurd\\data\\userdboperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B087DF6-B5A1-46CC-AE24-C3EF5F31E94D}|AdoCurd\\AdoCurd.csproj|e:\\github\\learning-net-centric-computing\\practice\\adocurd\\adocurd\\views\\users\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B087DF6-B5A1-46CC-AE24-C3EF5F31E94D}|AdoCurd\\AdoCurd.csproj|solutionrelative:adocurd\\views\\users\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDbOperations.cs",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\AdoCurd\\AdoCurd\\Data\\UserDbOperations.cs",
+              "RelativeDocumentMoniker": "AdoCurd\\Data\\UserDbOperations.cs",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\AdoCurd\\AdoCurd\\Data\\UserDbOperations.cs",
+              "RelativeToolTip": "AdoCurd\\Data\\UserDbOperations.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:48:15.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\AdoCurd\\AdoCurd\\Views\\Users\\Update.cshtml",
+              "RelativeDocumentMoniker": "AdoCurd\\Views\\Users\\Update.cshtml",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\AdoCurd\\AdoCurd\\Views\\Users\\Update.cshtml",
+              "RelativeToolTip": "AdoCurd\\Views\\Users\\Update.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T07:46:50.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\AdoCurd\\AdoCurd\\Views\\Users\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "AdoCurd\\Views\\Users\\AddUser.cshtml",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\AdoCurd\\AdoCurd\\Views\\Users\\AddUser.cshtml",
+              "RelativeToolTip": "AdoCurd\\Views\\Users\\AddUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T07:34:13.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\AdoCurd\\AdoCurd\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AdoCurd\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\AdoCurd\\AdoCurd\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AdoCurd\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:33:17.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\AdoCurd\\AdoCurd\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdoCurd\\Views\\Users\\Index.cshtml",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\AdoCurd\\AdoCurd\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "AdoCurd\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T06:56:05.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

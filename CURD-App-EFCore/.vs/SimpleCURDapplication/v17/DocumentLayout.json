@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|e:\\github\\learning-net-centric-computing\\practice\\simplecurdapplication\\simplecurdapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|solutionrelative:simplecurdapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|e:\\github\\learning-net-centric-computing\\practice\\simplecurdapplication\\simplecurdapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|solutionrelative:simplecurdapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|e:\\github\\learning-net-centric-computing\\practice\\simplecurdapplication\\simplecurdapplication\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|solutionrelative:simplecurdapplication\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|e:\\github\\learning-net-centric-computing\\practice\\simplecurdapplication\\simplecurdapplication\\views\\student\\addstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|solutionrelative:simplecurdapplication\\views\\student\\addstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|e:\\github\\learning-net-centric-computing\\practice\\simplecurdapplication\\simplecurdapplication\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|solutionrelative:simplecurdapplication\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|e:\\github\\learning-net-centric-computing\\practice\\simplecurdapplication\\simplecurdapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|solutionrelative:simplecurdapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|e:\\github\\learning-net-centric-computing\\practice\\simplecurdapplication\\simplecurdapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|solutionrelative:simplecurdapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|e:\\github\\learning-net-centric-computing\\practice\\simplecurdapplication\\simplecurdapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|solutionrelative:simplecurdapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|e:\\github\\learning-net-centric-computing\\practice\\simplecurdapplication\\simplecurdapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49C3F43F-E588-468C-A917-A5F8728CC668}|SimpleCURDapplication\\SimpleCURDapplication.csproj|solutionrelative:simplecurdapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "SimpleCURDapplication\\Views\\Student\\Update.cshtml",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "SimpleCURDapplication\\Views\\Student\\Update.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T08:48:25.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SimpleCURDapplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SimpleCURDapplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvx0AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T07:53:08.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudents.cshtml",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Views\\Student\\AddStudents.cshtml",
+              "RelativeDocumentMoniker": "SimpleCURDapplication\\Views\\Student\\AddStudents.cshtml",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Views\\Student\\AddStudents.cshtml",
+              "RelativeToolTip": "SimpleCURDapplication\\Views\\Student\\AddStudents.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T07:41:36.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleCURDapplication\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "SimpleCURDapplication\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T07:31:46.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SimpleCURDapplication\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SimpleCURDapplication\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswEIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:28:49.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCURDapplication\\Program.cs",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Program.cs",
+              "RelativeToolTip": "SimpleCURDapplication\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:22:40.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleCURDapplication\\appsettings.json",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\appsettings.json",
+              "RelativeToolTip": "SimpleCURDapplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T07:22:11.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleCURDapplication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SimpleCURDapplication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:15:44.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SimpleCURDapplication\\Models\\Student.cs",
+              "ToolTip": "E:\\Github\\Learning-NET-Centric-Computing\\Practice\\SimpleCURDapplication\\SimpleCURDapplication\\Models\\Student.cs",
+              "RelativeToolTip": "SimpleCURDapplication\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:13:17.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
